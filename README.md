@@ -1,5 +1,5 @@
 ## Hi there 👋
-Holaa, my fullname is Juhanda Azril Kamal, u guys can call me Juan. <br>
+Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 
 - 🔭 I’m currently apprenticeship on Hummatech/Hummasoft
 - 🌱 I’m currently learning Laravel, TailwindCSS, and NextJS
