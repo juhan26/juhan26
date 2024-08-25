@@ -5,7 +5,8 @@ Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 - 🌱 I’m currently learning PHP Native & Laravel
 - 👨🏻‍🏫 I'm currently studying at SMKN 2 Mataram
 - 💬 Ask me anything about Programming
-- ⚡ Device : ![Macbook](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
+- ⚡ Device : Macbook Pro 2015
+ ![Macbook](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 - 📫 How to reach me: [Gmail](juhndaa@gmail.com)
 
