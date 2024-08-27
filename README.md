@@ -2,7 +2,7 @@
 Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br> 
 
 - 🔭 I’m currently apprenticeship on Hummatech/Hummasoft
-- 🌱 I’m currently learning PHP Native & Laravel
+- 🌱 I’m currently learning PHP Native & Laravel 
 - 👨🏻‍🏫 I'm currently studying at SMKN 2 Mataram
 - 💬 Ask me anything about Programming
 - ⚡ Device : Macbook Pro 2015
