@@ -27,3 +27,4 @@ Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 
 # 📊 Github Stats
 ![juhan26's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhan26&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhan26&hide_progress=true)
