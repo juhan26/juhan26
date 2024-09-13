@@ -26,5 +26,5 @@ Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 
 
 # 📊 Github Stats
-![juhan26's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhan26&show_icons=true&theme=shadow_green&hide_rank=true&include_all_commits=true)[![GitHub Streak](https://streak-stats.demolab.com?user=juhan26&theme=shadow-green&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=460&border=008B28)](https://git.io/streak-stats)
+![juhan26's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhan26&show_icons=true&theme=shadow_green&hide_rank=true&include_all_commits=true)    [![GitHub Streak](https://streak-stats.demolab.com?user=juhan26&theme=shadow-green&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=460&border=008B28)](https://git.io/streak-stats)
 
