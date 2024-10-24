@@ -5,7 +5,6 @@ Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 - 🌱 I’m currently learning Django (Python) & NextJs (Typescript)
 - 👨🏻‍🏫 I'm currently studying at SMKN 2 Mataram 
 - 💬 Ask me anything about Programming
-- ⚡ Device : Macbook Pro 2015
 
 - 📫 How to reach me: [Gmail](juhndaa@gmail.com)
 
