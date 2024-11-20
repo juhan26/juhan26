@@ -1,4 +1,4 @@
-## Hi guys 👋
+## Hi guys 👋, I'm Juhndaa
 Holaa, my name is Juhanda Azril Kamal, u can call me Juan. <br>
 
 - 🔭 I’m currently internship at [Squadrones AI](https://squadrones.ai/)
