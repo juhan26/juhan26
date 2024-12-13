@@ -1,7 +1,7 @@
 ## Hi guys 👋, I'm juhndaa
 
 - 🔭 I’m currently internship at [Squadrones AI](https://squadrones.ai/)
-- 🌱 I’m currently learning Django (Python) & Android (Kotlin) 
+- 🌱 I’m currently learning Django (Python) & Android (Kotlin)
 - 👨🏻‍🏫 I'm currently studying at SMKN 2 Mataram 
 - 💬 Ask me anything about Programming
 
