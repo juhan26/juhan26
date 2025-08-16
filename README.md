@@ -1,10 +1,8 @@
 ## Hi guys 👋, I'm juhndaa
 
-- 🔭 I’m currently internship at [Squadrones AI](https://squadrones.ai/) 
-- 👨🏻‍💻 I’m currently building for [BTIX Ticketing App](https://btix.co.id) 
-- 🌱 I’m currently learning Typescript (NextJS)
-- 👨🏻‍🏫 I'm currently studying at SMKN 2 Mataram
-- 💬 Ask me anything about Programming
+- 🔭 I’m currently working at [PT. Begawe Inti Media](https://begawe.com/) 
+- 👨🏻‍💻 I’m currently building for [TekaDesa (SID)](https://Tekadesa.com) 
+- 👨🏻‍🏫 I'm currently studying at Universitas Bumigora
 
 - 📫 How to reach me: [Gmail](juhndaa@gmail.com)
 
