@@ -1,6 +1,6 @@
 ## Hi guys 👋, I'm juhndaa
 
-- 🔭 I’m currently working at [PT. Begawe Inti Media](https://begawe.com/) 
+- 🔭 I’m currently working at [PT. Begawe Inti Media](https://begaweintimedia.com/) & [Digitelnusa](https://digitelnusa.id)
 - 👨🏻‍💻 I’m currently building for [TekaDesa (SID)](https://Tekadesa.com) 
 - 👨🏻‍🏫 I'm currently studying at Universitas Bumigora
 
